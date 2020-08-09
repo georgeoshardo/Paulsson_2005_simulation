@@ -3,5 +3,5 @@ An implementation of the gene-mRNA-protein stochastic expression model from Mode
 
 The original paper can be read here: https://www.theorie.physik.uni-muenchen.de/lsfrey/teaching/archiv/wise_08_09/statphysbio/Paulsson_Physics_of_Life_Reviews_2005.pdf
 
-![the model](model.jpg)
+![the model](model.png)
 
